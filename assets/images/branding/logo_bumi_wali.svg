@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E4D31"/>
+      <stop offset="100%" stop-color="#083320"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E5C170"/>
+      <stop offset="100%" stop-color="#C99A3E"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="184" height="184" rx="40" fill="url(#bgGrad)" stroke="url(#goldGrad)" stroke-width="5"/>
+  <path d="M40 156 L40 86 Q100 30 160 86 L160 156 Z" fill="none" stroke="url(#goldGrad)" stroke-width="4" opacity="0.5"/>
+  <!-- Gapura Paduraksa Silhouette -->
+  <path d="M52 154 L52 112 L68 112 L68 92 L84 92 L84 74 L100 58 L116 74 L116 92 L132 92 L132 112 L148 112 L148 154 Z" fill="url(#goldGrad)"/>
+  <!-- Inner Arch Doorway -->
+  <path d="M84 154 L84 114 Q100 96 116 114 L116 154 Z" fill="#083320"/>
+  <!-- Crescent & Star -->
+  <path d="M104 34 A11 11 0 1 0 104 52 A8.5 8.5 0 1 1 104 34 Z" fill="#FAF8F4"/>
+  <circle cx="109" cy="43" r="2.2" fill="#E5C170"/>
+</svg>
